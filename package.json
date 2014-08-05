@@ -1,9 +1,9 @@
 {
     "name": "bobbyearl.toggle-toolbar",
-    "title": "Toggle the toolbar",
-    "description": "Brackets extension for allowing the toolbar to be toggled.",
+    "title": "Toggle Toolbar",
+    "description": "Toggle the Brackets Toolbar independant of the Sidebar.",
     "homepage": "https://github.com/simplyearl/brackets-toggle-toolbar",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Bobby Earl <bobby@simplyearl.com> (http://bobbyearl.com)",
     "license": "MIT",
     "engines": {
