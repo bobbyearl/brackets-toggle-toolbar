@@ -1,4 +1,4 @@
 brackets-toggle-toolbar
 =======================
 
-Brackets extension for allowing the toolbar to be toggled independant of the sidebar.
+Brackets extension for allowing the toolbar to be toggled independent of the sidebar.
