@@ -1,7 +1,7 @@
 {
     "name": "bobbyearl.toggle-toolbar",
     "title": "Toggle Toolbar",
-    "description": "Toggle the Brackets Toolbar independant of the Sidebar.",
+    "description": "Toggle the Brackets Toolbar independent of the Sidebar.",
     "homepage": "https://github.com/simplyearl/brackets-toggle-toolbar",
     "version": "1.0.1",
     "author": "Bobby Earl <bobby@simplyearl.com> (http://bobbyearl.com)",
